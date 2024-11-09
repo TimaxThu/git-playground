@@ -4,3 +4,7 @@
 
 .ssh
 .ssh.pub
+
+/out/
+
+# 这是1107AddFile branch的.gitignore文件
